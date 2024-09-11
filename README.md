@@ -23,7 +23,7 @@ pip install -r requirements.txt
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/marqsleal/tecnicas-prog-projeto-final.git
+git clone https://github.com/MariaPaulaAndrade/projeto-inadimplencia-cartao-credito.git
 ```
 
 2. Abra o arquivo `Projeto Final Tec Prog Inadimplência.ipynb` com o visualizador de notebooks de sua preferência:
